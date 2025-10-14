@@ -58,9 +58,9 @@ Backend: Node.js, Express
 
 AI Engine: ....
 
-Database: MongoDB (optional for user data and chat history)
+Database: MongoDB 
 
-Deployment: Vercel / Netlify / Heroku
+Deployment: Vercel  
 
 ## Contribution
 
