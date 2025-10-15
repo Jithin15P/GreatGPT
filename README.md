@@ -42,7 +42,7 @@ npm start
 ```
 ## Usage
 
-Open the application in your browser (default: http://localhost:3000).
+Open the application in your browser .
 
 Type your query or request in the input field.
 
