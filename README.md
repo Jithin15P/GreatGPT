@@ -19,7 +19,7 @@ Multi-domain Knowledge: Answers questions from general knowledge, tech, science,
 ## Demo
 
 You can try the live demo here:
-GreatGPT Demo
+ 
  
 
 ## Installation
