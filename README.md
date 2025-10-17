@@ -1,4 +1,4 @@
-# GreatGPT
+# GreatGPT - A ChatGPT CLONE
 
 GreatGPT is an advanced AI-powered language model designed to assist with a wide range of tasks, from answering questions and generating content to providing programming help, creative writing, and more. Built for developers, students, and enthusiasts, GreatGPT leverages cutting-edge AI technology to deliver fast, reliable, and intelligent responses.
 
